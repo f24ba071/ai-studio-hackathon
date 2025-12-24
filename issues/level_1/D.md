@@ -27,7 +27,7 @@ CTAセクション（ユーザーに行動を促すボタンエリア）の1つ�
 `frontend/promotion.html` 261行目付近
 
 ```html
-<a href="spots.html" class="cta-button">観光地一欄を見る</a>
+<a href="spots.html" class="cta-button">観光地一覧を見る</a>
 <!-- ↑ 「欄」を「覧」に修正しましょう -->
 ```
 
