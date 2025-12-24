@@ -26,7 +26,7 @@
 `frontend/promotion.html` 205行目付近
 
 ```html
-<a href="spot.html" class="cta-button">今すぐ観光地を探す</a>
+<a href="spots.html" class="cta-button">今すぐ観光地を探す</a>
 <!-- ↑ リンク先のファイル名を確認しましょう -->
 ```
 
